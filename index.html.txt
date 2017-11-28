@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>The Hoffmann Family Website</title>
-</head>
-<body>
-    <div>Welcome to our website!</div>
-</body>
-</html>
